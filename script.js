@@ -1,0 +1,1 @@
+console.log("Bienvenue sur la plateforme de cours en ligne !");
